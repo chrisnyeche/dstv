@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-grid">
+      <rect width="18" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="grid" clip-path="url(#clip-grid)">
+    <g id="Group_7" data-name="Group 7">
+      <rect id="Rectangle" width="4" height="4" rx="0.5" fill="#fff"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(0 7)" fill="#fff"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(0 14)" fill="#fff"/>
+      <rect id="Rectangle-4" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(7)" fill="#fff"/>
+      <rect id="Rectangle-5" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(7 7)" fill="#fff"/>
+      <rect id="Rectangle-6" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(7 14)" fill="#fff"/>
+      <rect id="Rectangle-7" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(14 0)" fill="#fff"/>
+      <rect id="Rectangle-8" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(14 7)" fill="#fff"/>
+      <rect id="Rectangle-9" data-name="Rectangle" width="4" height="4" rx="0.5" transform="translate(14 14)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

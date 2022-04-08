@@ -1,0 +1,13 @@
+.carousel-indicators-round{
+width: 14px; 
+height: 14px; 
+border-radius: 100%; 
+}
+
+.carousel_bg{
+
+}
+
+li{
+    list-style: none;
+}
